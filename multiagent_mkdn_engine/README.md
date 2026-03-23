@@ -18,7 +18,7 @@ I built this framework to showcase the orchestration of a multi-agent GenAI syst
 
 The entire "Insight-to-Action" loop is orchestrated through a specialized multi-agent workflow. The diagram below details how specialized agents decompose the problem and coordinate the financial solution.
 
-![Conceptual Flow and Tech Stack](assets/adi-architecture.png)
+<img width="1408" height="768" alt="Gemini_Generated_Image_pk9hatpk9hatpk9h (1)" src="https://github.com/user-attachments/assets/17547fcb-766f-423a-89c5-f3f091ba10a4" />
 
 ***Note: Refer to `agent.py` for specific agent configurations and `tools.py` for executable logical constraints.***
 
