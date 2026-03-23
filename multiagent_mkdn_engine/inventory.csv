@@ -1,0 +1,4 @@
+sku,product_name,stock_level,units_sold_7d,days_on_site,cost,price,review
+SKU-101,Linen Summer Shirt,400,200,45,15.00,45.00, Good Product
+SKU-102,Cotton Graphic Tee,50,40,15,8.00,25.00, OK price
+SKU-103,Wool Winter Coat,150,2,80,60.00,150.00, Bad product and High price
